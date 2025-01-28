@@ -44,3 +44,6 @@ Upgrade the build tools and install this project:
 pip install --upgrade pip setuptools wheel
 pip install -e .[dev,docs]
 ```
+
+
+https://continuous-integration-course-mb.readthedocs.io/en/latest/
