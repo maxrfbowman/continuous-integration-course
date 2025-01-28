@@ -37,13 +37,3 @@ you can use the ``functionality.minimum()`` function:
    :type args: int, float
    :return: The minimum
    :rtype: int, float
-
-       Parameters
-    ----------
-    args : int, float
-        The numbers from which to return the minimum
-
-    Returns
-    -------
-    int, float
-        The minimum
