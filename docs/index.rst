@@ -20,3 +20,32 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+Check out the :doc:`usage` section for further information.
+
+
+Find minimum
+----------------
+
+To retrieve a list of random ingredients,
+you can use the ``functionality.minimum()`` function:
+
+.. py:function:: functionality.minimum(*args)
+
+   Return a list of random ingredients as strings.
+
+   :param args: The numbers from which to return the minimum.
+   :type args: int, float
+   :return: The minimum
+   :rtype: int, float
+
+       Parameters
+    ----------
+    args : int, float
+        The numbers from which to return the minimum
+
+    Returns
+    -------
+    int, float
+        The minimum
