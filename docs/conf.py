@@ -33,7 +33,6 @@ release = '0.0.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
