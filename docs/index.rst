@@ -9,7 +9,6 @@ Welcome to cont_int_course's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   usage
 
 
 
@@ -19,6 +18,13 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Contents
+--------
+
+.. toctree::
+
+   usage
 
 
 Check out the :doc:`usage` section for further information.
