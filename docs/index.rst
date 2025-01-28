@@ -9,7 +9,6 @@ Welcome to cont_int_course's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   usage
 
 
 
