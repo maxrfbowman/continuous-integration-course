@@ -10,7 +10,6 @@ Welcome to cont_int_course's documentation!
    :maxdepth: 2
    :caption: Contents:
    usage
-   api
 
 
 
